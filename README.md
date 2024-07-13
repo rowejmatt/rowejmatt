@@ -1,6 +1,6 @@
 👋 Hello! I'm Matt.
 
-I'm transitioning from a background in chemistry to pursue a career in data. I'm currently studying data analysis and visualization techniques. Explore my projects below to see how I'm applying these skills
+I'm transitioning from a background in chemistry to pursue a career in data. I'm currently studying data analysis and visualisation techniques. Explore my projects below to see how I'm applying these skills
 
 <!--
 **rowejmatt/rowejmatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
